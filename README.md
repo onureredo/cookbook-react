@@ -5,4 +5,4 @@ Two week of development using HTML/CSS, JavaScript/React, Contentful API, Figma 
 
 ### started 11.07.2022 
  
-github link:  https://github.com/onureredo/HackerNews-API
+github link:  https://github.com/onureredo/cookbook-react
